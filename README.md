@@ -1,4 +1,4 @@
-# Filtro de Instagram - Imitación
+# Filtro de Minecraft - Imitación
 
 En esta práctica, se implementó un filtro inspirado en el siguiente filtro de Instagram: [Video de ejemplo](https://www.youtube.com/watch?v=6g3vc9BM_MM). El objetivo es crear un filtro que siga los movimientos faciales, especialmente los de las cejas y la boca, y aplique efectos de sonido según estos movimientos.
 
